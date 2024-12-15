@@ -5,10 +5,15 @@ This repository contains resources for the Data Profession Academy youtube chann
 
 ## Table of Contents
 
+This folder contains all the data files used in the videos. You can download them and use them for your own projects.
 - [Data Files](#data-files)
-    This folder contains all the data files used in the videos. You can download them and use them for your own projects.
 
+This folder contains all the code snippets used in the videos. You can download them and use them for your own projects.
 - [Code Snippets](#code-snippets)
-    This folder contains all the code snippets used in the videos. You can download them and use them for your own projects.
-        - [Python](#python)
-        - [SQL](#sql)
+    - [Python](#python)
+    - [SQL](#sql)
+
+
+Author: [Data Profession Academy](https://www.youtube.com/@dataprofessionacademy)
+
+Contact: [Email](mailto:contact@dataprofessionacademy.com)
